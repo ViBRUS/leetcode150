@@ -14,6 +14,7 @@ https://leetcode.com/studyplan/top-interview-150/
 | 6. | [189. Rotate Array](https://github.com/ViBRUS/leetcode150/blob/main/189.RotateArray.cpp)  |  https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150 | 11ms **98.97%** | 28.06MB 14.22% |
 | 7. | [121. Best Time to Buy and Sell Stock](https://github.com/ViBRUS/leetcode150/blob/main/121.best-time-to-buy-and-sell-stock.cpp)  |  https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150 | 56ms **98.81%** | 95.82MB 31.33% |
 | . | [13. Roman to Integer](https://github.com/ViBRUS/leetcode150/blob/main/13.RomantoInteger.cpp)  |  https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150 | 3ms **93.3%** | 6.52MB **100%** |
+| . | [58. Length of Last Word](https://github.com/ViBRUS/leetcode150/blob/main/58.length-of-last-word.cpp)  |  https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150 | 0ms **100%** | 7.70MB 56.24% |
 | . | [1. Two Sum](https://github.com/ViBRUS/leetcode150/blob/main/1.TwoSum.cpp)  |  https://leetcode.com/problems/two-sum/description/?envType=study-plan-v2&envId=top-interview-150 | 4ms **94.41%** | 12.74MB 54.91%
 | . | [9. Palindrome Number](https://github.com/ViBRUS/leetcode150/blob/main/9.PalindromeNumber.cpp)  |  https://leetcode.com/problems/palindrome-number/description/?envType=study-plan-v2&envId=top-interview-150 | 8ms 59.69% | 6.25MB **100%** |
 
